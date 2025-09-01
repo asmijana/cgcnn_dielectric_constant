@@ -75,9 +75,9 @@ Open results/ to obtain metrics.csv, loss_fn.pdf, and parity_plot.pdf
 
 ## Author
 
-Created by Asmita Jana (asmitajana[at]gmail[dot]com)
-This project was built as a scientific benchmark for CGCNN on electronic dielectric constant datasets.
-Please cite Xie and Grossman (2018): Xie, T., & Grossman, J. C. (2018). Crystal graph convolutional neural networks for an accurate and interpretable prediction of material properties. Physical review letters, 120(14), 145301.
+Created by Asmita Jana (asmitajana[at]gmail[dot]com)  
+This project was built as a scientific benchmark for CGCNN on electronic dielectric constant datasets.  
+Please cite Xie and Grossman (2018): Xie, T., & Grossman, J. C. (2018). Crystal graph convolutional neural networks for an accurate and interpretable prediction of material properties. Physical review letters, 120(14), 145301.  
 
 ---
 
